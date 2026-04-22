@@ -1,4 +1,4 @@
-# TrustlessWork (WhiteCloak)
+# TrustlessWork 
 
 TrustlessWork is a decentralized escrow platform built on the Stellar network using Soroban smart contracts. It provides a secure, transparent, and trustless environment for freelance payments.
 

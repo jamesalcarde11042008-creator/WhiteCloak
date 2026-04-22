@@ -1,4 +1,24 @@
 {
+  "name": "whitecloak",
+  "version": "1.0.0",
+  "description": "Decentralized Escrow Platform on Stellar",
+  "main": "index.js",
+  "scripts": {
+    "frontend:start": "cd whitecloak-frontend && npm start",
+    "frontend:build": "cd whitecloak-frontend && npm run build",
+    "contract:build": "cd contract && soroban contract build",
+    "contract:test": "cd contract && cargo test",
+    "client:build": "cd my-contract-client && npm run build"
+  },
+  "keywords": [
+    "stellar",
+    "escrow",
+    "soroban",
+    "smart-contract",
+    "freelance"
+  ],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "@stellar/freighter-api": "^6.0.1"
   }

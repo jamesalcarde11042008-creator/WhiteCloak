@@ -25,6 +25,16 @@ TrustlessWork eliminates these risks by using **blockchain-based escrow contract
 -   **Wallet Integration:** Freighter API
 -   **Contract Client:** Auto-generated TypeScript bindings
 
+## 🌐 Deployment
+The smart contract is currently deployed on the **Stellar Testnet**:
+
+- **Escrow Contract ID:** `CAUX56NFO67OWPTC5E3N5SDRPXUQYDQJPHVLNB55PFMO5UKBGX26P6GM`
+- **Testnet XLM Token ID:** `CDMLFMKMMD7MWZP3FKUBZPVHTUEDLSX4BYGYKH4GCESXYHS3IHQ4EIG4`
+- **Network:** Testnet
+- **RPC URL:** `https://soroban-testnet.stellar.org`
+
+---
+
 ## ⚙️ Basic Setup
 
 ### Prerequisites
